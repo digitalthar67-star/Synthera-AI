@@ -1,7 +1,7 @@
 // Synthear AI — backend (no npm packages needed, Node 18+)
 // The API key lives ONLY here (environment variable). It is never sent to the browser.
 //
-// Run:   export GROQ_API_KEY="your_key_here"
+// Run:   export GROQ_API_KEY="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"
 //        node server.js
 
 const http = require("http");
